@@ -23,7 +23,10 @@ Estructura de las carpetas del repo
 librerias
 ## Components
 List of the hardware components used in the project:
-+ [Camera](#https://diotronic.com/camaras-para-raspberry/18234-modulo-camara-para-raspberrypi)
++ [Camera](https://diotronic.com/camaras-para-raspberry/18234-modulo-camara-para-raspberrypi)
++ Arduino UNO
++ Raspberry Pi 4
++ ...
 ## Hardware Scheme
 ## Software Architecture
 ### Cloud Functions
