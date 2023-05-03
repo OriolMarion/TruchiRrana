@@ -5,12 +5,12 @@ Estructura de las carpetas del repo
 ## Demo
 ## Table of Contents
  + [Requirements](#Requirements)
- + Components
- + Hardware Scheme
- + Software Architecture
- + Amazing Contributions
- + Licence
- + Authors
+ + [Components](#Components)
+ + [Hardware Scheme](#Hardware-Scheme)
+ + [Software Architecture](#Software-Architecture)
+ + [Amazing Contributions](#Amazing-Contributions)
+ + [Licence](#Licence)
+ + [Authors](#Authors)
 ## Requirements
 librerias
 ## Components
