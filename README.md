@@ -29,6 +29,7 @@ List of the hardware components used in the project:
 + ...
 ## Hardware Scheme
 ## Software Architecture
+![Diagrama de Mòduls v2](https://github.com/OriolMarion/TruchiRrana/assets/93148262/104f600d-7270-40ba-abc1-f1b7a4be436f)
 ### Cloud Functions
 ### Explicar cada modulo
 ## Amazing Contributions
