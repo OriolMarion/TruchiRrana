@@ -31,6 +31,7 @@ List of the hardware components used in the project:
 + [three-axis magnetic field module](https://solectroshop.com/es/compas-magnetometro/456-brujula-digital-gy-271-5883-compas-magnetometro-hcm5883l.html). 3.32€
 + Mobile phone
 ## Hardware Scheme
+![[Module diagram](https://github.com/OriolMarion/TruchiRrana/images/Captura.PNG)](https://github.com/OriolMarion/TruchiRrana/blob/main/images/hardware scheme.jpeg)
 ## Software Architecture
 ![[Module diagram](https://github.com/OriolMarion/TruchiRrana/images/Captura.PNG)](https://github.com/OriolMarion/TruchiRrana/blob/main/images/Captura.PNG)
 ### Cloud Functions
