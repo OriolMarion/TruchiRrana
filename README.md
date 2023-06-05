@@ -32,7 +32,7 @@ List of the hardware components used in the project:
 + Mobile phone
 ## Hardware Scheme
 ## Software Architecture
-![Module diagram](https://github.com/OriolMarion/TruchiRrana/images/Captura.PNG)
+![[Module diagram](https://github.com/OriolMarion/TruchiRrana/images/Captura.PNG)](https://github.com/OriolMarion/TruchiRrana/blob/main/images/Captura.PNG)
 ### Cloud Functions
 ### Explicar cada modulo
 ## Amazing Contributions
