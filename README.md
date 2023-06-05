@@ -31,11 +31,16 @@ List of the hardware components used in the project:
 + [three-axis magnetic field module](https://solectroshop.com/es/compas-magnetometro/456-brujula-digital-gy-271-5883-compas-magnetometro-hcm5883l.html). 3.32€
 + Mobile phone
 ## Hardware Scheme
-![[Module diagram](https://github.com/OriolMarion/TruchiRrana/images/Captura.PNG)](https://github.com/OriolMarion/TruchiRrana/blob/main/images/hardware scheme.jpeg)
+![[Module diagram](https://github.com/OriolMarion/TruchiRrana/images/Captura.PNG)](https://github.com/OriolMarion/TruchiRrana/blob/main/images/hardware_scheme.jpeg)
 ## Software Architecture
-![[Module diagram](https://github.com/OriolMarion/TruchiRrana/images/Captura.PNG)](https://github.com/OriolMarion/TruchiRrana/blob/main/images/Captura.PNG)
-### Cloud Functions
-### Explicar cada modulo
+![[Module diagram](https://github.com/OriolMarion/TruchiRrana/images/Captura.PNG)](https://github.com/OriolMarion/TruchiRrana/blob/main/images/module_diagram.PNG)
+### Inputs
+There are three types of input, all operating through the android application Speech To Sign, designed and programmed to enhance the interactivity of this robot. The first input is the microphone, used to record voice. The second input is the camera, used to capture signs made by people. And finally, there is the input used to select the origin and destination of the robot's path.
+### Cloud
+In the cloud, we have implemented several functionalities to alleviate the stress on the robot's hardware. On one hand, we perform voice input translation to text, which is subsequently translated into a language chosen by the user on their phone. All of this is accomplished through the utilization of Google API's SpeechToText and Translation services. The resulting text is then converted into images representing the signs corresponding to each letter in the text.
+On the other hand, by utilizing the camera's input, images are transmitted to a server virtual machine hosted in the cloud. This virtual machine contains code programmed with advanced computer vision techniques to identify the signs depicted in the images. Through this process, we can extract text from the identified signs. By employing the TextToSpeech API, we can convert this text into audio for playback.
+### Movement
+To enable autonomous movement for the robot, the first step involves creating an image of the room's floor plan. Subsequently, the user can overlay the image with drawn walls and obstacles that the robot needs to navigate around. Additionally, the starting and ending points on the floor plan must be selected. Finally, a pathfinding algorithm is employed to calculate the optimal movement path for the robot.
 ## Amazing Contributions
 ## Licence
 ## Authors
