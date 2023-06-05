@@ -23,16 +23,16 @@ Estructura de las carpetas del repo
 librerias
 ## Components
 List of the hardware components used in the project:
-+ x2 [VEX robotics 2-wire motor] (https://www.cosues.com/vex-v5-motor-393-de-2-cables). 45.96€
-+ [7.2V VEX robotics battery] (https://www.cosues.com/vex-v5-bateria-nimh-de-7-2v-y-3000mah). 47.18€
-+ [Raspoberry Pi 4] (https://www.electan.com/raspberrypi4-p-10264.html). 59.75€
-+ [Arduino UNO] (https://www.electan.com/arduinouno-p-2977.html). 22.75€
-+ [HC-SR04 Ultrasonic Sonar Distance Sensor] (https://www.electan.com/sensor-distancia-por-ultrasonidos-hcsr04-p-6275.html). 2.13€
-+ [three-axis magnetic field module] (https://solectroshop.com/es/compas-magnetometro/456-brujula-digital-gy-271-5883-compas-magnetometro-hcm5883l.html). 3.32€
++ x2 [VEX robotics 2-wire motor](https://www.cosues.com/vex-v5-motor-393-de-2-cables). 45.96€
++ [7.2V VEX robotics battery](https://www.cosues.com/vex-v5-bateria-nimh-de-7-2v-y-3000mah). 47.18€
++ [Raspoberry Pi 4](https://www.electan.com/raspberrypi4-p-10264.html). 59.75€
++ [Arduino UNO](https://www.electan.com/arduinouno-p-2977.html). 22.75€
++ [HC-SR04 Ultrasonic Sonar Distance Sensor](https://www.electan.com/sensor-distancia-por-ultrasonidos-hcsr04-p-6275.html). 2.13€
++ [three-axis magnetic field module](https://solectroshop.com/es/compas-magnetometro/456-brujula-digital-gy-271-5883-compas-magnetometro-hcm5883l.html). 3.32€
 + Mobile phone
 ## Hardware Scheme
 ## Software Architecture
-![Captura](https://github.com/OriolMarion/TruchiRrana/assets/93148262/104f600d-7270-40ba-abc1-f1b7a4be436f)
+![Module diagram](https://github.com/OriolMarion/TruchiRrana/assets/93148262/104f600d-7270-40ba-abc1-f1b7a4be436f)
 ### Cloud Functions
 ### Explicar cada modulo
 ## Amazing Contributions
