@@ -8,7 +8,7 @@ For example, in a household where there are hearing parents and a deaf child, th
 
 TruchiRrana provides a unique solution for facilitating communication between hearing and deaf individuals in a convenient and accessible way. This project aims to provide a useful tool for improving communication and reducing barriers for the deaf community.
 ## Demo
-![Video Demo](https://vimeo.com/833401522?share=copy)
+[video demostration](https://vimeo.com/833401522?share=copy)
 ## Table of Contents
  + [Components](#Components)
  + [Hardware Scheme](#Hardware-Scheme)
